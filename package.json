@@ -1,5 +1,5 @@
 {
-  "name": "egg-demo",
+  "name": "egg-quickstart",
   "version": "1.0.0",
   "description": "A egg demo for learning node eggjs.",
   "private": true,
@@ -25,8 +25,8 @@
     "node": ">=10.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-egg-demo",
-    "stop": "egg-scripts stop --title=egg-server-egg-demo",
+    "start": "egg-scripts start --daemon --title=egg-server-egg-quickstart",
+    "stop": "egg-scripts stop --title=egg-server-egg-quickstart",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
     "test": "npm run lint -- --fix && npm run test-local",

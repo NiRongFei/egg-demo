@@ -1,6 +1,6 @@
-# egg-demo
+# egg-quickstart
 
-An eggjs demo for learning node eggjs.
+Quickstart demo of eggjs.
 
 ## QuickStart
 
