@@ -1,7 +1,5 @@
 # egg-quickstart
 
-Quickstart demo of eggjs.
-
 ## QuickStart
 
 <!-- add docs here for user -->
